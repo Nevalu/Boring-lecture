@@ -1,0 +1,17 @@
+.intro {
+  font-family: sans-serif;
+}
+
+h2.intro {
+  font-size: 40px;
+}
+
+p.intro {
+  color: magenta;
+}
+
+img.intro {
+  width: 500px;
+  height: 500px;
+  border-radius: 100px;
+}
